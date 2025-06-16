@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "830161917118",
+    "project_id": "reverraai",
+    "storage_bucket": "reverraai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830161917118:android:2545908dc4cfd5b01dfaef",
+        "android_client_info": {
+          "package_name": "Reverra.AI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830161917118-ujmm898q6tbpehl3tc3kojn34lndc469.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Reverra.AI",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "830161917118-d32ta3r9dcfmubd39th41idtloe7s76r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3u9J6RGIIGH1tbQO9Gx_bJita7dpHapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830161917118-d32ta3r9dcfmubd39th41idtloe7s76r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830161917118-gshetlr4ur0lsbq5es6572cps0u09p8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galaxies.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
